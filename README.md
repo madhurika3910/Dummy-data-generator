@@ -39,3 +39,22 @@ Build a web application using **Express.js** and **Mongoose** that generates dum
 ### Expected Outcome
 
 Clicking the **Generate Data** button should refresh the `employees` collection by deleting old records and populating it with 10 newly generated employee documents.
+
+## How to Run the Project
+
+```bash
+# Clone the repository
+git clone https://github.com/<username>/<repository-name>.git
+
+# Go to the project folder
+cd <repository-name>
+
+# Install dependencies
+npm install
+
+# Start the application
+npm start
+```
+
+Then open **[http://localhost:3000](http://localhost:3000)** in your browser.
+
